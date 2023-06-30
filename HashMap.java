@@ -1,5 +1,5 @@
-// Time Complexity : O(1)
-// Space Complexity : O(n)
+// Time Complexity : O(1) average and O(n) worst case - for all get(),put() and remove() methods.
+// Space Complexity : O(n) - where n is the number of entries in HashMap 
 // Did this code successfully run on Leetcode : Yes 
 // Any problem you faced while coding this : No
 class MyHashMap {
